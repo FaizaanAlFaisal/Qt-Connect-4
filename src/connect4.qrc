@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Connect4pngs/Connect4-Grid.png</file>
+        <file>Connect4pngs/P1Piece-Square.png</file>
+        <file>Connect4pngs/P2Piece-Square.png</file>
+    </qresource>
+</RCC>
