@@ -32,3 +32,7 @@ To run the GUI version:
 2. Open the project (.pro file) in Qt Creator.
 3. Configure the project settings and build the application.
 4. Run the compiled executable to play Connect 4.
+
+Optionally, if a simpler terminal version is required:
+1. Compile "connect4_console.c" included in main directory using any C/++ compiler (gcc)
+2. Run the generated executable
