@@ -1,0 +1,6 @@
+# build folder containing release/debug builds
+build
+
+# user specific files
+*.user
+*.pro.user 
